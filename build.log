@@ -1,0 +1,5 @@
+mp3splt couldn't split ogg.
+	only partially splited while using "mp3splt -t 00.01 any.ogg".
+
+rename.sh only could be used under the directory which need to be renamed, or use the one line command.
+	(it's rename everything within that dir)
