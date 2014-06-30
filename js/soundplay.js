@@ -17,7 +17,7 @@ $(document).ready(function(){
 	    position = 0;
 	}
 	audioFile[position].pause();
-	audioFile[position].currentTime = 0;
+	//audioFile[position].currentTime = 0;
 	audioFile[position].play();
 	position += 1;
 	setTimeout(audioFile[position].pause(), 300);
