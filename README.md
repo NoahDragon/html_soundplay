@@ -3,11 +3,7 @@ HTML5 Audio Play
 
 Using HTML5 audio feature creates a sequence of hyperlinks to play Cannon in C.
 
-<<<<<<< HEAD
-Live demo: [http://abnerchou.me/html_soundplay/soundplay.html](http://abnerchou.me/html_soundplay/soundplay.html)
-=======
-The midi version is Cannon in D, and using the amazing (MIDI.js)[https://github.com/mudcube/MIDI.js] .
->>>>>>> origin/master
+The midi version is Cannon in D, and using the amazing [MIDI.js](https://github.com/mudcube/MIDI.js) .
 
 Hightlight:
 * use mp3splt to split mp3 into mutilple files
