@@ -12,7 +12,8 @@ Hightlight:
 
 Todo:
 * ~~use midi instead of mp3 if possible~~
-* split audio file by notes not time interval
+* ~~split audio file by notes not time interval~~
 * ~~create a project page for this~~
+* modify Midi.js to play notes.
 
 Test passed on Chrome 2014-06-30
