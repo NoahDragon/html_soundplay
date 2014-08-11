@@ -15,5 +15,6 @@ Todo:
 * ~~split audio file by notes not time interval~~
 * ~~create a project page for this~~
 * modify Midi.js to play notes.
+* music speed would be adjusted by the number of cursor hits
 
 Test passed on Chrome 2014-06-30
