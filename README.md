@@ -19,4 +19,3 @@ Todo:
 
 Test passed on Chrome 2014-06-30
 
-Simply test
