@@ -18,3 +18,5 @@ Todo:
 * music speed would be adjusted by the number of cursor hits
 
 Test passed on Chrome 2014-06-30
+
+Simply test
